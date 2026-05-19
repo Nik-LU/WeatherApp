@@ -21,7 +21,7 @@ Android-приложение для отображения информации 
 - **Язык:** Kotlin
 - **UI:** Jetpack Compose
 - **Архитектура:** Clean (data / domain / presentation), MVI (Model-View-Intent)
-- **Screens:** Single Activity + Navigation Compose
+- **Screens:** Single Activity 
 - **База данных:** Room
 - **Асинхронность:** Kotlin Coroutines, Flow
 - **DI:** Dagger
